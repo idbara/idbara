@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bara 👋</h1>
-<h3 align="center">Senior Fullstack Developer · Indonesia</h3>
-<p align="center">I design, build, and ship production web products end-to-end — from API & infrastructure to polished frontends.</p>
+<h3 align="center">Senior Fullstack & AI-Native Engineer · Indonesia</h3>
+<p align="center">I design, build, and ship production web products end-to-end — increasingly AI-native, weaving LLMs and AI agents into real products.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities" />
@@ -13,6 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 Senior Fullstack Developer with **5+ years** designing, building, and scaling production web apps.
+- 🤖 **AI-Native Engineer** — I build LLM-powered features and agentic workflows, and ship faster with AI dev tooling (Claude Code, Cursor).
 - 🏢 Currently engineering products at **[Cepat Kilat Teknologi](https://ckt.co.id)**.
 - 🧩 Domain strengths: **SaaS & multi-tenant platforms, ISP management systems, HRIS, and government/enterprise systems**.
 - ⚙️ I own features end-to-end — system architecture, APIs, databases, frontends, deployment, and observability.
@@ -21,6 +22,15 @@
 ---
 
 ### 🛠️ Tech Stack
+
+**AI & LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 
 **Languages**
 
@@ -67,6 +77,7 @@
 
 | Project | What it does | Tech | Link |
 | ------- | ------------ | ---- | ---- |
+| **Omnistream** | Omnichannel chat SaaS (WhatsApp · Instagram · Messenger) with AI agents — in production at PT Megadata Inovasi Solusindo | Rust · SvelteKit · Microservices | [Live](https://chat.misindo.id) |
 | **Konnext** | ISP management platform — 8+ modules, 99.9% uptime | Go · Rust · SvelteKit · PostgreSQL · Redis | _Private_ |
 | **SatuRT** | Community digitalization SaaS — 50+ communities, 1K+ users | SvelteKit · Supabase · Cloudflare | [Live](https://saturt.my.id) |
 | **Sidekem** | Regional government information system (Pemalang Regency) | Python · Flask · PostgreSQL · Docker | [Live](https://sidekem.pemalangkab.go.id) |
